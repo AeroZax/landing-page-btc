@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+  font-family: Poppins;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+/* .img-fluid {
+  max-width: 20%;
+  max-height: auto;
+} */
+
+.navbar a {
+  width: 50%;
+}
+
+.jumbotron {
+  padding: 2rem 1rem;
+  background-color: rgb(219, 219, 219);
+}
+
+.image-meeting {
+  width: auto;
+}
+
+.image-spss {
+  max-width: 80%;
+  max-height: 88%;
+  margin: -3rem 0 0 0;
+}
+
+#Kursus {
+  background-color: #e0ffff;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+/* #about {
+  padding: 4rem 1rem;
+} */
+
+#courses {
+  background-color: #e0ffff;
+}
+
+.navbar {
+  background-color: rgba(122, 93, 255, 0.952);
+}
+
+#kontak textarea {
+  resize: none;
+}
+
+.social-media button {
+  background-color: rgba(122, 93, 255, 0.952);
+  width: 3rem;
+  height: 2.5rem;
+  border: none;
+  border-radius: 50%;
+}
+
+.social-media .btn {
+  font-size: 1.9rem;
+}
